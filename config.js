@@ -36,26 +36,26 @@ global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
+global.pdana = '085608468994'
+global.povo = '085608468994'
+global.pgopay = '085608468994'
+global.ppulsa = '085608468994'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
-global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nomorbot = '6285608468994'
+global.nomorown = '6285608468994'
+global.namebot = 'BotGalau'
+global.nameown = 'Ndasmu'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677'],
-  ['6283863727733'],
-  ['62838637277192'],
-  ['6282214729677', 'PutraModz', true]
+  ['6285608468994'],
+  ['6285608468994'],
+  ['6285608468994'],
+  ['6285608468994', 'Ndasmu', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -105,16 +105,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraModz'
-global.wm3 = 'NexBotz | By PutraModz'
+global.wm = 'By Ndasmu' //Main Watermark
+global.wm2 = 'Ndasmu'
+global.wm3 = 'Ndasmu | By Ndasmu'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraModz'
+global.titlebot = `Ndasmu | ʙʏ ${global.nameown}`
+global.author = 'Ndasmu' 
+global.packname = 'Ndasmu'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Februari 02 2023'
+global.ultahowner = 'Juli 02 2023'
 
 
 /*============== LOGO ==============*/
@@ -383,8 +383,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `PutraModz`
+global.stickpack = 'By Ndasmu'
+global.stickauth = `Asu`
 
 global.multiplier = 38 // The higher, The harder levelup
 
