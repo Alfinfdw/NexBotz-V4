@@ -55,7 +55,7 @@ global.owner = [
   ['6285608468994'],
   ['6285608468994'],
   ['6285608468994'],
-  ['6285608468994', 'Ndasmu', true]
+  ['6285608468994', 'TQA🇲🇪', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -105,16 +105,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By Ndasmu' //Main Watermark
-global.wm2 = 'Ndasmu'
-global.wm3 = 'Ndasmu | By Ndasmu'
+global.wm = 'By TQA🇲🇪' //Main Watermark
+global.wm2 = 'TQA🇲🇪'
+global.wm3 = 'TQA🇲🇪 | By TQA🇲🇪'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Ndasmu | ʙʏ ${global.nameown}`
-global.author = 'Ndasmu' 
-global.packname = 'Ndasmu'
+global.titlebot = `TQA🇲🇪 | ʙʏ ${global.nameown}`
+global.author = 'TQA🇲🇪' 
+global.packname = 'TQA🇲🇪'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Juli 02 2023'
+global.ultahowner = 'Agustus 02 2023'
 
 
 /*============== LOGO ==============*/
@@ -131,11 +131,11 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'PutraModz'
-global.umurowner = '18'
+global.nameowner = 'TQA🇲🇪'
+global.umurowner = '-'
 global.asalowner = 'Jawa Barat, Kuningan'
-global.nomorowner = 'wa.me/6282214729677'
-global.pacarowner = 'Amelia Putri septiany'
+global.nomorowner = 'wa.me/6285608468995'
+global.pacarowner = 'Amelia Putry'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
