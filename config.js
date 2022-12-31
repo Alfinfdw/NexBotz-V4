@@ -118,7 +118,7 @@ global.ultahowner = 'Agustus 02 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'hthttps://telegra.ph/file/ebc69c1ee5d75d8261100.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/ebc69c1ee5d75d8261100.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/ebc69c1ee5d75d8261100.jpg'
 global.giflogo = 'https://ibb.co/3sJ0ybv'
 global.thumbbc = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //For broadcast
