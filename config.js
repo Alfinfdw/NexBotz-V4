@@ -118,8 +118,8 @@ global.ultahowner = 'Agustus 02 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
+global.thumb = 'hthttps://telegra.ph/file/ebc69c1ee5d75d8261100.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/ebc69c1ee5d75d8261100.jpg'
 global.giflogo = 'https://ibb.co/3sJ0ybv'
 global.thumbbc = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
