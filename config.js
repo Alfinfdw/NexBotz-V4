@@ -46,8 +46,8 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6285608468994'
 global.nomorown = '16816006454'
-global.namebot = 'BotGalau'
-global.nameown = 'Ndasmu'
+global.namebot = 'CodeXdBotzツ'
+global.nameown = 'CodeXdBotzツ'
 
 
 /*============== STAFF ==============*/
@@ -55,7 +55,7 @@ global.owner = [
   ['16816006454'],
   ['16816006454'],
   ['16816006454'],
-  ['16816006454', 'TQA🇲🇪', true]
+  ['16816006454', 'CodeXdBotzツ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -105,14 +105,14 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By TQA🇲🇪' //Main Watermark
-global.wm2 = 'TQA🇲🇪'
-global.wm3 = 'TQA🇲🇪 | By TQA🇲🇪'
+global.wm = 'By CodeXdBotzツ' //Main Watermark
+global.wm2 = 'CodeXdBotzツ'
+global.wm3 = 'CodeXdBotzツ | By CodeXdBotzツ'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `TQA🇲🇪 | ʙʏ ${global.nameown}`
-global.author = 'TQA🇲🇪' 
-global.packname = 'TQA🇲🇪'
+global.titlebot = `CodeXdBotzツ | ʙʏ ${global.nameown}`
+global.author = 'CodeXdBotzツ' 
+global.packname = 'CodeXdBotzツ'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Agustus 02 2023'
 
@@ -131,11 +131,11 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'TQA🇲🇪'
+global.nameowner = 'CodeXdBotzツ'
 global.umurowner = '-'
 global.asalowner = 'Jawa Barat, Kuningan'
 global.nomorowner = 'wa.me/6285608468995'
-global.pacarowner = 'Amelia Putry'
+global.pacarowner = 'Nggak ada'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
