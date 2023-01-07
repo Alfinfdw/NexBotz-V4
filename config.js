@@ -118,13 +118,13 @@ global.ultahowner = 'Agustus 02 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/ebc69c1ee5d75d8261100.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/ebc69c1ee5d75d8261100.jpg'
+global.thumb = 'https://telegra.ph/file/9930d761ccf2808e304a0.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/9930d761ccf2808e304a0.jpg'
 global.giflogo = 'https://ibb.co/3sJ0ybv'
 global.thumbbc = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.giflogo2 = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.thumbs = ['https://telegra.ph/file/ebc69c1ee5d75d8261100.jpg']
+global.thumbs = ['https://telegra.ph/file/9930d761ccf2808e304a0.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
