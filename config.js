@@ -45,17 +45,17 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285608468994'
-global.nomorown = '15714966138'
-global.namebot = 'CodeXdBotzツ'
-global.nameown = 'CodeXdBotzツ'
+global.nomorown = '+1(417)2202297'
+global.namebot = 'DivanXdBotzツ'
+global.nameown = 'DivanXdBotzツ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['15714966138'],
-  ['15714966138'],
-  ['15714966138'],
-  ['15714966138', 'CodeXdBotzツ', true]
+  ['+1(417)2202297'],
+  ['+1(417)2202297'],
+  ['+1(417)2202297'],
+  ['+1(417)2202297', 'DivanXdBotzツ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -105,14 +105,14 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By CodeXdBotzツ' //Main Watermark
-global.wm2 = 'CodeXdBotzツ'
-global.wm3 = 'CodeXdBotzツ | By CodeXdBotzツ'
+global.wm = 'By DivanXdBotzツ' //Main Watermark
+global.wm2 = 'DivanXdBotzツ'
+global.wm3 = 'DivanXdBotzツ | By DivanXdBotzツ'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `CodeXdBotzツ | ʙʏ ${global.nameown}`
-global.author = 'CodeXdBotzツ' 
-global.packname = 'CodeXdBotzツ'
+global.titlebot = `DivanXdBotzツ | ʙʏ ${global.nameown}`
+global.author = 'DivanXdBotzツ' 
+global.packname = 'DivanXdBotzツ'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Agustus 02 2023'
 
