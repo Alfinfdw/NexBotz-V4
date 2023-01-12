@@ -31,7 +31,7 @@ global.sig = 'https://instagram.com/l4c1f2r'
 global.syt = 'https://youtube.com/@Putra_Modz_'
 global.sgh = 'https://github.com/Lucife-Putra'
 global.sgc = 'hhttps://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.swa = 'wa.me/682214729677'
+global.swa = 'wa.me/6285608468994'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -45,17 +45,17 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285608468994'
-global.nomorown = '+1(417)2202297'
+global.nomorown = '+1(870)2494302'
 global.namebot = 'DivanXdBotzツ'
 global.nameown = 'DivanXdBotzツ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['+1(417)2202297'],
-  ['+1(417)2202297'],
-  ['+1(417)2202297'],
-  ['+1(417)2202297', 'DivanXdBotzツ', true]
+  ['+1(870)2494302'],
+  ['+1(870)2494302'],
+  ['+1(870)2494302'],
+  ['+1(870)2494302', 'DivanXdBotzツ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
