@@ -1,8 +1,8 @@
 Arguments: 
-  /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/share/yarn/bin/yarn.js
+  /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/share/yarn/bin/yarn.js install
 
 PATH: 
-  /data/data/com.termux/files/usr/bin:/data/data/com.termux/files/home/.local/bin:/data/data/com.termux/files/usr/bin
+  /data/data/com.termux/files/usr/bin
 
 Yarn version: 
   1.22.19
@@ -14,7 +14,7 @@ Platform:
   android arm64
 
 Trace: 
-  Error: EPERM: operation not permitted, symlink '../../../../pino/bin.js' -> '/storage/emulated/0/NexBotzV4/node_modules/@adiwajshing/baileys/node_modules/.bin/pino'
+  Error: EACCES: permission denied, symlink '../../../../pino/bin.js' -> '/storage/emulated/0/sedih-master/node_modules/@adiwajshing/baileys/node_modules/.bin/pino'
 
 npm manifest: 
   {
